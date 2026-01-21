@@ -11,15 +11,16 @@
     {
       "src": "Portfolio Logo.jpeg",
       "sizes": "192x192",
-      "type": "jpeg"
+      "type": "image/jpeg"
     },
     {
       "src": "Portfolio Logo.jpeg",
       "sizes": "512x512",
-      "type": "jpeg"
+      "type": "image/jpeg"
     }
   ]
 }
+
 
 
 
